@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am learning Software
-GCU student
+I am learning Software / GCU student
 
 <!--
 **joshuasa0122/joshuasa0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
