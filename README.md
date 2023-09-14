@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am learning sw
+CCU student
 
 <!--
 **joshuasa0122/joshuasa0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
